@@ -1,6 +1,10 @@
 package MatricesDispersas;
 import java.util.Scanner;
 
+/* 
+ *   Author: Maria F
+ */
+
 public class Tripletas {
 	
 	public static void main(String[] args) {
