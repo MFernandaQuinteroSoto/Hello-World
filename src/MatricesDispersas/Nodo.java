@@ -10,7 +10,6 @@ package MatricesDispersas;
        - Multi Tri A + B
 */
 
-
 public class Nodo {
 	
 	 private int[][] Tri;
